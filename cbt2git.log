@@ -1,0 +1,6 @@
+2023-08-06 00:39:30.633865 - Initialized conversion of CBT061
+2023-08-06 00:39:30.648084 - Received CBT.V505.FILE061.PDS from FILE061.XMI 
+2023-08-06 00:39:30.649140 - Found SSR01AR.bin containing application/octet-stream, moved to PDS/SSR01AR
+2023-08-06 00:39:30.650162 - Found SSR010PR.bin containing application/octet-stream, moved to PDS/SSR010PR
+2023-08-06 00:39:30.651260 - Found SSR011PR.bin containing application/octet-stream, moved to PDS/SSR011PR
+2023-08-06 00:39:30.652327 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
